@@ -1,0 +1,24 @@
+{
+  "name": "projetnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "today.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "today": "node today.js",
+    "weather" : "node weather.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathieu-Berthet/JS-NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mathieu-Berthet/JS-NPM/issues"
+  },
+  "homepage": "https://github.com/Mathieu-Berthet/JS-NPM#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
